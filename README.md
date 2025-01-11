@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamiraElhami
+- 👋 Hi, I’m @SamiraElhamy
 - 👀 I’m interested in Mobile Development;
 - 🌱 I’m currently learning Flame Engine;
 - 💞️ I’m looking to collaborate on Flutter projects
