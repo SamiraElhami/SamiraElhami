@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamiraElhami
-- 👀 I’m interested in Cutting edge technologies like Blockchain;
-- 🌱 I’m currently learning kusama and substrate;
-- 💞️ I’m looking to collaborate on Blockchain projects
+- 👀 I’m interested in Mobile Development;
+- 🌱 I’m currently learning Flame Engine;
+- 💞️ I’m looking to collaborate on Flutter projects
 - 📫 reach me on s.elhamy@gmail.com
 
 <!---
